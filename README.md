@@ -13,3 +13,10 @@ A fully responsive Love Calculator built using HTML, CSS, and JavaScript.
 - HTML
 - CSS
 - JavaScript
+## Author
+
+Farzana Akter 
+
+Department of Computer Science & Engineering 
+
+Southeast University
